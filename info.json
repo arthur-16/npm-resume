@@ -1,0 +1,24 @@
+{
+  "name": "Arthur Scott",
+  "website": "https://arthur-16.github.io/",
+  "linkedin": "https://www.linkedin.com/in/arthur-scott-b366b3122/",
+  "github": "arthur-16",
+  "email": "artbscott16@gmail.com",
+  "resume": "N/A",
+  "proficientTechnologies": [
+      "Javascript",
+      "SQL",
+      "Node",
+      "Express",
+      "MongoDB",
+      "CSS",
+      "HTML",
+      "Microsoft 360",
+      "Microsoft SQL Server"
+  ],
+  "otherSkills": [
+      "Basketball",
+      "Painting",
+      "Music Playlist Curation"
+  ]
+}
